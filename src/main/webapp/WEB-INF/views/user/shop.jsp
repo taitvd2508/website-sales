@@ -174,8 +174,6 @@
                         <li class="page-item">
                             <a class="page-link rounded-0 shadow-sm border-top-0 border-left-0 text-dark" href="/home/shop?p=${page.totalPages-1}"><i class="fas fa-angle-double-right"></i></a>
                         </li>
-                        first: ${first}
-                        pagetotal:" ${page.totalPages}"
                     </ul>
                 </div> <!-- end button page -->
             </div>

@@ -39,14 +39,10 @@ https://templatemo.com/tm-559-zay-shop
                         </div>
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left align-self-center">
-                                <h1 class="h1 text-success"><b>Zay</b> eCommerce</h1>
+                                <h1 class="h1 text-success"><b>Tai</b> Store</h1>
                                 <h3 class="h2">Tiny and Perfect eCommerce Template</h3>
                                 <p>
-                                    Zay Shop is an eCommerce HTML5 CSS template with latest version of Bootstrap 5 (beta 1). 
-                                    This template is 100% free provided by <a rel="sponsored" class="text-success" href="https://templatemo.com" target="_blank">TemplateMo</a> website. 
-                                    Image credits go to <a rel="sponsored" class="text-success" href="https://stories.freepik.com/" target="_blank">Freepik Stories</a>,
-                                    <a rel="sponsored" class="text-success" href="https://unsplash.com/" target="_blank">Unsplash</a> and
-                                    <a rel="sponsored" class="text-success" href="https://icons8.com/" target="_blank">Icons 8</a>.
+                                    <a href="https://github.com/taitvd2508/website-sales" class="text-success" target="_blank">Tai store</a> is a reputable sales website with products such as shoes, clothes, and hats
                                 </p>
                             </div>
                         </div>
@@ -64,8 +60,7 @@ https://templatemo.com/tm-559-zay-shop
                                 <h1 class="h1">Proident occaecat</h1>
                                 <h3 class="h2">Aliquip ex ea commodo consequat</h3>
                                 <p>
-                                    You are permitted to use this Zay CSS template for your commercial websites. 
-                                    You are <strong>not permitted</strong> to re-distribute the template ZIP file in any kind of template collection websites.
+                                    Tai store uses Zay CSS template. Thanks you Zay eCommerce !
                                 </p>
                             </div>
                         </div>
@@ -83,8 +78,7 @@ https://templatemo.com/tm-559-zay-shop
                                 <h1 class="h1">Repr in voluptate</h1>
                                 <h3 class="h2">Ullamco laboris nisi ut </h3>
                                 <p>
-                                    We bring you 100% free CSS templates for your websites. 
-                                    If you wish to support TemplateMo, please make a small contribution via PayPal or tell your friends about our website. Thank you.
+                                   This free CSS template comes from Zay eCommerce !
                                 </p>
                             </div>
                         </div>
